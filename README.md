@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🌱  I’m currently learning Hackintosh
 - 🖥  Apple Fan
 - 💬  Ask me about Hackintosh or iOS 
-- 📫  Scribe me: dimarzo.pierpaolo@yahoo.it
+- 📫  Messenger / Direct IG / Scribe me: dimarzo.pierpaolo@yahoo.it
 
 ### if you want to Support me with a gift 🎁
 
@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | Messenger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/messenger.svg />][messenger]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [facebook]: https://www.facebook.com/pierpaolo.dimarzo/
+[messenger]: m.me/pierpaolodimarzo
 [instagram]: https://instagram.com/pierpaolodimarzo
-
