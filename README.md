@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [facebook]: https://www.facebook.com/pierpaolo.dimarzo/
-[messenger]: m.me/pierpaolodimarzo
+[messenger]: m.me/pierpaolo.dimarzo
 [instagram]: https://instagram.com/pierpaolodimarzo
