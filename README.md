@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 💬  Ask me about Hackintosh or iOS 
 - 📫  Messenger / Direct IG / Scribe me: dimarzo.pierpaolo@yahoo.it
 
-### if you want to Support me with a gift 🎁
+### if you want to Support me with cup of coffe ☕ 
 
 [![](https://img.shields.io/badge/PayPal-pierpaolodimarzo-informational?style=flat&logo=paypal&logoColor=white&color=00B2EE)](https://www.paypal.com/donate?hosted_button_id=ZHME3NL933AQJ)
 
